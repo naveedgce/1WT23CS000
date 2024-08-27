@@ -6,3 +6,6 @@ Section: A
 Branch : Mechanical Engineering
 Year of Admission: 2023
 College Name: GITW
+UG Degree: Mechanical Engineering
+PG Degree: Manufacturing Science & Engineering
+PhD Degree: Materials Science
